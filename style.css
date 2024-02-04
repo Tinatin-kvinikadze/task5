@@ -166,7 +166,7 @@ img{
 
 }
 
-@media (max-width: 375px) {
+@media (max-width: 412px) {
     .childs {
       display: flex;
       flex-direction: column;
@@ -175,19 +175,19 @@ img{
   }
   .name3{
     position: absolute;
-    top:541px;
+     top:493px;  
   }
   .name4{
     position: absolute;
-    top:839px;
+    top:790px;
   }
   .name1{
     position: absolute;
-    top:1393px;
+    top:1275px;
   }
   .name2{
     position: absolute;
-    top:1670px;;
+    top:1554px;
   }
 
 }
